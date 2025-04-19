@@ -1,0 +1,38 @@
+﻿namespace Fun
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine(Pig("Pig latin is cool"));
+            Console.WriteLine(Pig("Hello world !"));
+        }
+
+        public static string Pig(string str) {
+            string[] s = str.Split(" ");
+            string final = string.Empty;
+            foreach (string word in s) {
+                char first = ' ';
+                string newWord = string.Empty;
+                for (int i = 0; i < word.Length; i++)
+                {
+                    if (i == 0)
+                    {
+                        first = word[i];
+                        continue;
+                    }
+                    newWord += $"{word[i]}";
+                }
+                if (word == "!")
+                {
+                    final += $"{word} ";
+                    break;
+                }
+                newWord += $"{first}ay ";
+                final += $"{newWord}";
+            }
+            final.Remove(final.Length - 1);
+            return final;
+        }
+    }
+}
