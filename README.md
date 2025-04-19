@@ -1,2 +1,2 @@
-# Explorations-in-C-
+# Explorations-in-C#
 Learning C# - enjoy :)
