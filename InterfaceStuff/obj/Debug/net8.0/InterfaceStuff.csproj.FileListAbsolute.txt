@@ -1,0 +1,14 @@
+F:\C# Fun\Ch 12\InterfaceStuff\obj\Debug\net8.0\InterfaceStuff.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Fun\Ch 12\InterfaceStuff\obj\Debug\net8.0\InterfaceStuff.AssemblyInfoInputs.cache
+F:\C# Fun\Ch 12\InterfaceStuff\obj\Debug\net8.0\InterfaceStuff.AssemblyInfo.cs
+F:\C# Fun\Ch 12\InterfaceStuff\obj\Debug\net8.0\InterfaceStuff.csproj.CoreCompileInputs.cache
+F:\C# Fun\Ch 12\InterfaceStuff\bin\Debug\net8.0\InterfaceStuff.exe
+F:\C# Fun\Ch 12\InterfaceStuff\bin\Debug\net8.0\InterfaceStuff.deps.json
+F:\C# Fun\Ch 12\InterfaceStuff\bin\Debug\net8.0\InterfaceStuff.runtimeconfig.json
+F:\C# Fun\Ch 12\InterfaceStuff\bin\Debug\net8.0\InterfaceStuff.dll
+F:\C# Fun\Ch 12\InterfaceStuff\bin\Debug\net8.0\InterfaceStuff.pdb
+F:\C# Fun\Ch 12\InterfaceStuff\obj\Debug\net8.0\InterfaceStuff.dll
+F:\C# Fun\Ch 12\InterfaceStuff\obj\Debug\net8.0\refint\InterfaceStuff.dll
+F:\C# Fun\Ch 12\InterfaceStuff\obj\Debug\net8.0\InterfaceStuff.pdb
+F:\C# Fun\Ch 12\InterfaceStuff\obj\Debug\net8.0\InterfaceStuff.genruntimeconfig.cache
+F:\C# Fun\Ch 12\InterfaceStuff\obj\Debug\net8.0\ref\InterfaceStuff.dll
